@@ -1,4 +1,4 @@
-# General guidance for this repository
+# General guidance for users of this repository
 
 This repository contains the analytic code for our research published in the Korean Journal of Anesthesiology. The article is available at _____ .
 
@@ -7,6 +7,8 @@ This repository contains the analytic code for our research published in the Kor
 * Second, install a copy of the MIMIC-III on your local server of PostgreSQL.
 
 * Third, install the MIMIC-III tools provided by MIT-LCP (https://github.com/MIT-LCP/mimic-code)
+
+------
 
 * Fourth, run "SQL-etomidat.sql" on your local PostgreSQL platform.
 
