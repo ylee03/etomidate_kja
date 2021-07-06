@@ -6,7 +6,7 @@ This repository contains the analytic code for our research published in the Kor
 
 * Second, install a copy of the MIMIC-III on your local server of PostgreSQL.
 
-* Third, install the MIMIC-III tools provided by MIT-LCP (https://github.com/MIT-LCP/mimic-code)
+* Third, install the MIMIC-III tools provided by MIT-LCP (https://github.com/MIT-LCP/mimic-code/tree/main/mimic-iii/concepts)
 
 ------
 
