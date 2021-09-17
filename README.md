@@ -1,6 +1,6 @@
 # General guidance for users of this repository
 
-This repository contains the analytic code for our research published in the Korean Journal of Anesthesiology. The article is available at _____ .
+This repository contains the analytic code for our research published in the Korean Journal of Anesthesiology. The article is available at https://doi.org/10.4097/kja.20509.
 
 * First, get permission to use the MIMIC-III.
 
